@@ -10,19 +10,20 @@ This project is a starting point for a Flutter application.
 
 => git clone <URL> <br>
 => flutter run
- 
 
-<!-- <p >
-  <img src="https://github.com/Sreenivassreee/Flutter-Theme-Changer/blob/master/Priview%20Photos/Theme%20Changer_1.png" width="350" title="Screenshot-1 "><br>
+<p >
+  <img src="https://github.com/Sreenivassreee/DiceRoller/blob/master/Previews/DiceRoller-1.png" width="350" title="Screenshot-1 "><br>
   
-  <img src="https://github.com/Sreenivassreee/Flutter-Theme-Changer/blob/master/Priview%20Photos/Theme%20Changer_2.png" width="350" title="Screenshot-2 "><br>
+  <img src="https://github.com/Sreenivassreee/DiceRoller/blob/master/Previews/DiceRoller-2.png" width="350" title="Screenshot-2 "><br>
   
-   <img src="https://github.com/Sreenivassreee/Flutter-Theme-Changer/blob/master/Priview%20Photos/Theme%20Changer_3.png" width="350" title="Screenshot-3 "><br>
-    <img src="https://github.com/Sreenivassreee/Flutter-Theme-Changer/blob/master/Priview%20Photos/Theme%20Changer_4.png" width="350" title="Screenshot-4 "><br>
-     <img src="https://github.com/Sreenivassreee/Flutter-Theme-Changer/blob/master/Priview%20Photos/Theme%20Changer_5.png" width="350" title="Screenshot-5 "><br>
-      <img src="https://github.com/Sreenivassreee/Flutter-Theme-Changer/blob/master/Priview%20Photos/Theme%20Changer_6.png" width="350" title="Screenshot-6 "><br> -->
+   <img src="https://github.com/Sreenivassreee/DiceRoller/blob/master/Previews/DiceRoller-3.png" width="350" title="Screenshot-3 "><br>
+    <img src="https://github.com/Sreenivassreee/DiceRoller/blob/master/Previews/DiceRoller-4.png" width="350" title="Screenshot-4 "><br>
+     <img src="https://github.com/Sreenivassreee/DiceRoller/blob/master/Previews/DiceRoller-5.png" width="350" title="Screenshot-5 "><br>
+      <img src="https://github.com/Sreenivassreee/DiceRoller/blob/master/Previews/DiceRoller-6.png" width="350" title="Screenshot-6 "><br>
+      <img src="https://github.com/Sreenivassreee/DiceRoller/blob/master/Previews/DiceRoller-7.png" width="350" title="Screenshot-7 "><br>
        
 </p>
 
 ## Developed by
+
 ## K Sreenivas
