@@ -13,15 +13,19 @@ This project is a starting point for a Flutter application.
 
 <p >
   <img src="https://github.com/Sreenivassreee/DiceRoller/blob/master/Previews/DiceRoller-1.png" width="350" title="Screenshot-1 "><br>
-  
-  <img src="https://github.com/Sreenivassreee/DiceRoller/blob/master/Previews/DiceRoller-2.png" width="350" title="Screenshot-2 "><br>
-  
-   <img src="https://github.com/Sreenivassreee/DiceRoller/blob/master/Previews/DiceRoller-3.png" width="350" title="Screenshot-3 "><br>
+     <br>
+
+<img src="https://github.com/Sreenivassreee/DiceRoller/blob/master/Previews/DiceRoller-2.png" width="350" title="Screenshot-2 "><br>
+<br>
+
+<img src="https://github.com/Sreenivassreee/DiceRoller/blob/master/Previews/DiceRoller-3.png" width="350" title="Screenshot-3 "><br>
+<br>
+
     <img src="https://github.com/Sreenivassreee/DiceRoller/blob/master/Previews/DiceRoller-4.png" width="350" title="Screenshot-4 "><br>
-     <img src="https://github.com/Sreenivassreee/DiceRoller/blob/master/Previews/DiceRoller-5.png" width="350" title="Screenshot-5 "><br>
+     <br>
       <img src="https://github.com/Sreenivassreee/DiceRoller/blob/master/Previews/DiceRoller-6.png" width="350" title="Screenshot-6 "><br>
       <img src="https://github.com/Sreenivassreee/DiceRoller/blob/master/Previews/DiceRoller-7.png" width="350" title="Screenshot-7 "><br>
-       
+
 </p>
 
 ## Developed by
