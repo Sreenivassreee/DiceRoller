@@ -21,10 +21,10 @@ This project is a starting point for a Flutter application.
 <img src="https://github.com/Sreenivassreee/DiceRoller/blob/master/Previews/DiceRoller-3.png" width="350" title="Screenshot-3 "><br>
 <br>
 
-    <img src="https://github.com/Sreenivassreee/DiceRoller/blob/master/Previews/DiceRoller-4.png" width="350" title="Screenshot-4 "><br>
-     <br>
-      <img src="https://github.com/Sreenivassreee/DiceRoller/blob/master/Previews/DiceRoller-6.png" width="350" title="Screenshot-6 "><br>
-      <img src="https://github.com/Sreenivassreee/DiceRoller/blob/master/Previews/DiceRoller-7.png" width="350" title="Screenshot-7 "><br>
+<img src="https://github.com/Sreenivassreee/DiceRoller/blob/master/Previews/DiceRoller-4.png" width="350" title="Screenshot-4 "><br>
+<br>
+<img src="https://github.com/Sreenivassreee/DiceRoller/blob/master/Previews/DiceRoller-6.png" width="350" title="Screenshot-6 "><br>
+<img src="https://github.com/Sreenivassreee/DiceRoller/blob/master/Previews/DiceRoller-7.png" width="350" title="Screenshot-7 "><br>
 
 </p>
 
